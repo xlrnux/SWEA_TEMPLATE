@@ -17,7 +17,7 @@ int main() {
     //ios::sync_with_stdio(false);cin.tie(0);cin >> TC;
     scanf(" %d", &TC);
     for(int tc = 1; tc <= TC; tc++){
-
+        printf("#%d Test!!\n",tc);
     }
     return 0;
 }
